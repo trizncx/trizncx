@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Beatriz Coelho
 
-Me chamo Beatriz Coelho, tenho 18 anos e resido em S]ao Paulo. Concluí o ensino médio no SESI/SENAI, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e busco melhoras minhas habilidades através de projetos, cursos, interesse e curiosidade na área. "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Beatriz Coelho, tenho 18 anos e resido em S]ao Paulo. Concluí o ensino médio no SESI/SENAI, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e busco melhoras minhas habilidades através de projetos, cursos, interesse e curiosidade na área.
 
 <p align="left">
     <a href="https://github.com/trizncx?tab=repositories&sort=stargazers">
@@ -74,7 +74,7 @@ Me chamo Beatriz Coelho, tenho 18 anos e resido em S]ao Paulo. Concluí o ensino
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizncx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
