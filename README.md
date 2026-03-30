@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Beatriz Coelho
 
-Me chamo Beatriz Coelho, tenho 18 anos e resido em S]ao Paulo. Concluí o ensino médio no SESI/SENAI, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e busco melhoras minhas habilidades através de projetos, cursos, interesse e curiosidade na área.
+Me chamo Beatriz Coelho, tenho 18 anos e moro em São Paulo. Concluí o ensino médio integrado ao curso técnico em Desenvolvimento de Sistemas pelo SESI/SENAI. Sou apaixonada por tecnologia e estou sempre buscando evoluir minhas habilidades por meio de projetos, cursos e aprendizado contínuo, com grande interesse em aprender coisas novas e crescer profissionalmente na área de TI.
 
 <p align="left">
     <a href="https://github.com/trizncx?tab=repositories&sort=stargazers">
